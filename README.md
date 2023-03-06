@@ -5,5 +5,8 @@
 This AI recommends songs to people. If you listen to a certain genre, it will recommend songs from that genre and similar artists. 
 
 
-## Who can use it
-It can be used by anyone of all ages, and can be configured to be used on any music app such as Spotify 
+## How to use
+1. Open the *Musia* app or website
+2. Go to tthe settings menu
+3. Click *associated apps and websites*
+4. Enable/disable the apps you want to link *Musia* to
